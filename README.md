@@ -1,4 +1,4 @@
-# Criando-instagram-clone-Digital-Innovation-One
+# Criando instagram clone Digital Innovation One
 
 <div align="center">
   <img  src="https://user-images.githubusercontent.com/79542325/156683659-f2c46e40-dc04-4540-b289-7e8024c62a72.PNG" >
