@@ -14,6 +14,7 @@
   Principais conceitos utilizados:<p>
   - CSS Flexbox<br>
 </div>
+<br>
 
 - Projeto Desenvolvido
 <br>
