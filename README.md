@@ -8,7 +8,7 @@
 
 <hr>
   <div>
-  <img  height="170px"align="left"src="https://user-images.githubusercontent.com/79542325/156962737-79e751ef-5467-4c72-9680-9a7f21fc3acd.PNG" >
+  <img  height="150px"align="left"src="https://user-images.githubusercontent.com/79542325/156962737-79e751ef-5467-4c72-9680-9a7f21fc3acd.PNG" >
   <p align="left">BootCamp de HTML Web Developer da Digital Innovation One.</p>
   <p>Nesse projeto, o desafio foi criar um clone do instagram responsivo utilizando html e css(clone da landing page do instagem mais recente no momento).
   Principais conceitos utilizados:<p>
