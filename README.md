@@ -18,5 +18,7 @@
 
 - Projeto Desenvolvido
 <br>
+  Desktop version
   <img src="https://user-images.githubusercontent.com/79542325/156962996-7a430d48-cae0-4d45-bb8f-4505150a25bd.PNG" >
+  Mobile version
   <img src="https://user-images.githubusercontent.com/79542325/156963034-60452b68-f23d-4bb3-9ef9-ab4814187d5a.PNG" >
